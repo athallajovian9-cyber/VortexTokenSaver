@@ -1,0 +1,14 @@
+{
+  "name": "vortex-tokensaver",
+  "version": "1.0.0",
+  "description": "Universal AI CLI token & quota optimizer proxy for Claude Code, Antigravity, and Hermes",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "keywords": ["token-saver", "quota-saver", "ai", "claude-code", "antigravity", "hermes"],
+  "author": "Athalla Jovian",
+  "license": "MIT"
+}
